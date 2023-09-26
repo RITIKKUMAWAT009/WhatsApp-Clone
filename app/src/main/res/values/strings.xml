@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="Username">Username</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Already">Already have an account</string>
+    <string name="SIGNUP">SIGN UP</string>
+    <string name="GOOGLE">GOOGLE</string>
+    <string name="FACEBOOK">FACEBOOK</string>
+    <string name="logo">WhatsAppLogo</string>
+    <string name="SignIn">SIGNIN</string>
+
+    <string name="underDovelopment">Page under Dovelopment</string>
+    <string name="default_web_client_id" translatable="false">810444937262-aflugq0r04aborrmc0s27bq2njjp0d5d.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
